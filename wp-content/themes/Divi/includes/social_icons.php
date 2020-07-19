@@ -6,5 +6,5 @@
 <tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Error: Call to undefined function et_get_option() in /Users/Davide/Sites/www.digitalwave.dev.cc/wp-content/themes/Divi/includes/social_icons.php on line <i>3</i></th></tr>
 <tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
 <tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
-<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0202</td><td bgcolor='#eeeeec' align='right'>503568</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/Users/Davide/Sites/www.digitalwave.dev.cc/wp-content/themes/Divi/includes/social_icons.php' bgcolor='#eeeeec'>.../social_icons.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0020</td><td bgcolor='#eeeeec' align='right'>503568</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/Users/Davide/Sites/www.digitalwave.dev.cc/wp-content/themes/Divi/includes/social_icons.php' bgcolor='#eeeeec'>.../social_icons.php<b>:</b>0</td></tr>
 </table></font>
