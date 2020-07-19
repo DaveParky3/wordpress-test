@@ -4,5 +4,5 @@
 <tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Error: Call to undefined function esc_html_e() in /Users/Davide/Sites/www.digitalwave.dev.cc/wp-content/themes/Divi/includes/functions/tutorials.php on line <i>1</i></th></tr>
 <tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
 <tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
-<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0023</td><td bgcolor='#eeeeec' align='right'>490280</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/Users/Davide/Sites/www.digitalwave.dev.cc/wp-content/themes/Divi/includes/functions/tutorials.php' bgcolor='#eeeeec'>.../tutorials.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0018</td><td bgcolor='#eeeeec' align='right'>490280</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/Users/Davide/Sites/www.digitalwave.dev.cc/wp-content/themes/Divi/includes/functions/tutorials.php' bgcolor='#eeeeec'>.../tutorials.php<b>:</b>0</td></tr>
 </table></font>
